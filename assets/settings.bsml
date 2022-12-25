@@ -1,5 +1,5 @@
 <settings-container>
-	<checkbox-setting apply-on-change="true" value="Enabled" text="Enable Plugin"/>
+	<checkbox-setting apply-on-change="true" value="Enabled" text="Enable Mod"/>
 	<checkbox-setting apply-on-change="true" value="Light" text="Disable Light"/>
 	<checkbox-setting apply-on-change="true" value="Spectrogram" text="Disable Spectrogram"/>
 </settings-container>
